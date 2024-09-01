@@ -1,22 +1,10 @@
-GROUP MEMBER:
-TAY SHI JYE (2350003-DCS)
-SU ZHI LUN (2320013-DCS)
-FOO CHEE HAO (2350079-DCS)
-DANIAL FOO (2320125-DCS)
+# Project Info
 
-# trivia
+This is a trivia quiz app from android programming, using flutter dart to coding.
 
-A new Flutter project.
+## Group Member
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- SU ZHI LUN (2320013-DCS)
+- TAY SHI JYE (2350003-DCS)
+- FOO CHEE HAO (2350079-DCS)
+- DANIAL FOO (2320125-DCS)
